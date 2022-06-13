@@ -24,4 +24,12 @@ The images below elaborate on the above heatmap by showing the same data separat
 
 ![trips_gender_usertype](images/trips_by_gender_week_user.png)
 
-## 
+The two images below show the most popular starting and ending locations for trips.
+
+![top_starting_locations](images/top_starting_locations.png)
+
+![top_ending_locations](images/top_ending_locations.png)
+
+## Summary
+
+These visualizations clearly display the most popular locations and times of bike use. NYC Citibike can use this to inform their placement of available bikes, advertising, timing of repairs, and number of bikes at given locations. Other aspiring bike rental companies can use this information to inform their initial business plan.
